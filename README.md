@@ -1,4 +1,4 @@
 # About Me
-name - Sultan
+Name - Sultan
 Age - 18
 Student of Astana IT University
