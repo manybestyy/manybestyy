@@ -1,2 +1,4 @@
 # manybestyy-manybestyy
-about me
+name - Sultan
+Age - 18
+Student of Astana IT Univercity
